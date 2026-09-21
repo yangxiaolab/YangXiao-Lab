@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://yangxiaolab.github.io/YangXiao-Lab/sitemap.xml
